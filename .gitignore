@@ -1,0 +1,8 @@
+ModelSim_Proj
+Quartus_Proj
+
+*.bak
+*.mpf
+*.mti
+*.sdo_typ.csd
+*.wlf
